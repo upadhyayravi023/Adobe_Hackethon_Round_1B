@@ -61,7 +61,7 @@ ThinkPDF’s intelligent pipeline extracts and ranks sections/subsections from d
    ```
 2. **Build the Docker Image**:
    ```bash
-  docker build -t persona-doc-bot .
+   docker build -t persona-doc-bot .
 
    ```
 3. **Run the Solution**:
