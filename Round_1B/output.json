@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "input_documents": [
+      "2106.02218v2.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "processing_timestamp": "2025-07-28T19:52:13.981820Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "sample_docs/2106.02218v2.pdf",
+      "page_number": 5,
+      "section_title": "S0K-\nK",
+      "importance_rank": 1
+    },
+    {
+      "document": "sample_docs/2106.02218v2.pdf",
+      "page_number": 6,
+      "section_title": "S0K-\nK",
+      "importance_rank": 2
+    },
+    {
+      "document": "sample_docs/2106.02218v2.pdf",
+      "page_number": 7,
+      "section_title": "ACKNOWLEDGMENTS",
+      "importance_rank": 3
+    },
+    {
+      "document": "sample_docs/Learn Acrobat - Export_1.pdf",
+      "page_number": 15,
+      "section_title": "FILE AND NAVIGATION PANE SETTINGS",
+      "importance_rank": 4
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "sample_docs/2106.02218v2.pdf",
+      "page_number": 5,
+      "refined_text": " 10 20 30\n+K--π\nK 5 10 15\n+K--ππ0\nK -π\nS0K-π+\nK 321\n4 -π-π\nS0K+\nK 4321\n-π-π\n+\nπ 10 20 η\n-π 1 2 π0η\n-π 105\n15\n20 1.9\n1.95\n2 -πη\nηπ’+\n-π 0.5 1 1.9\n1.95\n2 ηγ’ρ0\n-π 5 10 1.9\n1.95\n2 -π\n-π+\nK 105\n15\n20 Data Best fit\nBackground FIG. 1. Fits to the MST distributions of the ST D−\ns candi-\ndates for the data sample at Ecm = 4178 MeV. The diﬀerence\nbetween the dotted black line and the dashed blue line for\nD−\ns → K0\nSK− is the D− → K0\nSπ− background. The pairs of\narrows denote the signal regions. a good el"
+    },
+    {
+      "document": "sample_docs/2106.02218v2.pdf",
+      "page_number": 6,
+      "refined_text": " 500 1000\n+K--π\nK 200 400 600 800\n+K--ππ0\nK 50 100\n-π\nS0K-π+\nK 50 100 150\n-π-π\nS0K+\nK 100 200 300 400\n-π-π\n+\nπ 50\n100\n150\n200\nη\n-π 200 400\nπ0η\n-π 0\n0.5\n1\n1.5\n2 50 100 -πη\nηπ’+\n-π 0\n0.5\n1\n1.5\n2 100 200\nηγ’ρ0\n-π 0\n0.5\n1\n1.5\n2 100 200 300\n-π\nK-π+\nData\nBest fit s- background(BG)\nNon-D s+→Xe+νe BG\nD s+→KL0e+νe BG\nD -π BG\n-→KS0\nD Ds+→τ+(→e+νeντ)ντ signal\nSignal + all BGs FIG. 2. The Etot\nextra distributions of the DT candidates. The\nsignal component is normalized to our measured BF. In the BF measurem"
+    },
+    {
+      "document": "sample_docs/2106.02218v2.pdf",
+      "page_number": 7,
+      "refined_text": " The BESIII collaboration thanks the staﬀ of BEPCII\nand the IHEP computing center for their strong sup-\nport.\nThis work is supported in part by National\nKey R&D Program of China under Contracts Nos.\n2020YFA0406400, 2020YFA0406300; National Natural\nScience Foundation of China (NSFC) under Contracts\nNo.\n12105077, No.\n11805037, No.\n11875054, No.\n11625523, No. 11635010, No. 11735014, No. 11822506,\nNo.\n11835012, No.\n11875122, No.\n11935015, No.\n11935016, No.\n11935018, No.\n11961141012, No.\n12022510, No"
+    },
+    {
+      "document": "sample_docs/Learn Acrobat - Export_1.pdf",
+      "page_number": 15,
+      "refined_text": " <image: DeviceRGB, width: 367, height: 500, bpc: 8> <image: Indexed(12,DeviceRGB), width: 23, height: 23, bpc: 8> Single html page Specifies that a single HTML file is created when you export to HTML. To add a navigation pane, \nenable the following: • \nAdd Headings-based Navigation Frame • \nAdd Bookmarks-based Navigation Frame Multiple html pages Specifies that multiple HTML files are created when you export to HTML. Choose one of the \ncriteria to split the document into multiple HTML files. • "
+    }
+  ]
+}
